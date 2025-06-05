@@ -1,0 +1,1 @@
+Dado um caracter, informe seu código ASCII em octal, decimal e hexadecimal.
