@@ -1,0 +1,6 @@
+Dada uma sequência de números inteiros diferentes de zero, terminada por um zero, imprima o quadrado de cada número da sequência. Por exemplo:
+      3     🡺    9
+      7     🡺    49
+      -5    🡺    25
+      -2    🡺    4
+      0     🡺 termina o programa

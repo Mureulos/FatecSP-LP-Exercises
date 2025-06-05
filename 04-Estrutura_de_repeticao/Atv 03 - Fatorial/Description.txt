@@ -1,0 +1,6 @@
+Dado um número inteiro n >= 0, calcular o fatorial de n (n!).
+      n! = n * (n-1) * (n-2)*...* 2 * 1
+
+Qual a melhor estrutura?
+- while()?
+- do-while()?

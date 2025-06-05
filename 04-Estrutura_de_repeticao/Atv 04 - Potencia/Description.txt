@@ -1,0 +1,3 @@
+Dado N >= 0 inteiro e X real, calcular X elevado a potência N (sem usar pow).
+
+XN = X * X * X *...* X  (N vezes)
