@@ -1,0 +1,1 @@
+Dados os coeficientes (a≠0, b e c) de uma equação do 2o grau, calcule e informe suas raízes reais, usando a fórmula de Báskara a seguir:

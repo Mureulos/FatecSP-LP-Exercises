@@ -1,0 +1,6 @@
+Escreva um programa em C que leia a quantidade de faltas de um aluno e sua média e informe seu conceito final, sendo:
+Faltas > 5 🡺 F
+Faltas <=5 e Média <6 🡺 C
+Faltas <=5 e 6<= Média <7.5 🡺 B
+Faltas <=5 e 7.5<= Média <9 🡺 A
+Faltas <=5 e Média >= 9 🡺 E

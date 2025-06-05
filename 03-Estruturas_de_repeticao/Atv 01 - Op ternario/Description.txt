@@ -1,0 +1,1 @@
+Dado um inteiro n, informe se n é par ou ímpar usando o operador condicional ternário.
