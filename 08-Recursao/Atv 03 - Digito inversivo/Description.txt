@@ -1,0 +1,1 @@
+Codifique uma função recursiva que recebe um natural n e imprime seus dígitos invertidos (da direita para a esquerda).

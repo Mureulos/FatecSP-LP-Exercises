@@ -1,0 +1,4 @@
+Codifique uma função recursiva que calcule o produto de dois naturais usando soma.
+- Quais as soluções triviais?
+- Qual a solução geral?
+- O problema está diminuindo?
