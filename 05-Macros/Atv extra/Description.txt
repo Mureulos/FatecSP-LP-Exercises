@@ -1,0 +1,5 @@
+Defina as seguintes macros:
+- eh_minuscula(c): substitui a macro por 1 se c for minúscula, ou por 0, caso contrário
+- eh_maiuscula(c): substitui a macro por 1 se c for maiúscula, ou por 0, caso contrário
+- minuscula(c): substitui o caractere c por seu correspondente minúsculo
+- maiuscula(c): substitui o caractere c por seu correspondente maiúsculo
