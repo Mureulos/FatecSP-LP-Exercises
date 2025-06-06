@@ -1,0 +1,2 @@
+Codifique a função rodizio(placa), que recebe um número ente 0 e 9 que representa o último dígito da placa de um veículo e exibe na tela o dia em ele está no rodízio.
+Faça um programa para testar sua rotina.

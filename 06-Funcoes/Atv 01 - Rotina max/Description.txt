@@ -1,0 +1,7 @@
+Codifique um programa de teste para a rotina max( ).
+
+double max (double a, double b) {
+   if ( a>b )     
+        return a;       /* interrompe a função*/
+   return b;
+}

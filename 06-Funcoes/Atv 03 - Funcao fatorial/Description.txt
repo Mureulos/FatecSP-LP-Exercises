@@ -1,0 +1,4 @@
+Codifique a função fat(n), que devolve o fatorial de um inteiro n. Lembrando que:
+      n! = n * (n-1) * (n-2) * ... * 2 * 1
+      0! = 1 (por definição)
+recebe parâmetro: n      tipo devolvido: inteiro
