@@ -1,0 +1,8 @@
+Altere o programa anterior para que além de:
+- Ler as 2 notas dos 10 alunos de uma turma
+- Calcular e armazenar a média de cada aluno;
+- Calcule também a média da turma;
+
+Ao final, imprima:
+- A média de cada aluno;
+- Se o aluno está na média, acima ou abaixo;

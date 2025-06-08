@@ -1,0 +1,14 @@
+Dado o seguinte programa, codifique as rotinas
+- obtem() -> obtem as temperaturas de cada dia da semana
+- media() -> calcula a média da temperatura da semana
+- conta() -> quantos dias estao acima da média
+
+#include <stdio.h>
+#define max 7
+int main() {
+      float temp[max], m;
+      obtem(temp, max);
+      m = media(temp, max);
+      printf("Estatística: %d", conta(temp, max, m) );
+      return 0;
+}

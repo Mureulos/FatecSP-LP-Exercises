@@ -1,0 +1,2 @@
+Codifique uma função recursiva que calcule o resto da divisão inteira usando apenas operações básicas como a subtração.
+Função resto(a, b)

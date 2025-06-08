@@ -1,0 +1,9 @@
+Dado um vetor w com 9 elementos inteiros e um inteiro i=5, represente os valores em w após as seguintes atribuições:
+1. w[0] = 17;
+2. w[i/2] = 9;
+3. w[2*i-2] = 95;
+4. w[i-1] = w[8]/2;
+5. w[i] = w[2];
+6. w[i+ 1] = w[i]+ w[i-1];
+7. w[w[2]-2] = 78;
+8. w[1] = w[w[i]-1];

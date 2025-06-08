@@ -1,0 +1,4 @@
+Represente graficamente (desenhe) os vetores abaixo (com suas posições indexadas e elementos armazenados).
+int X[4];
+char Y[7] = {'x', 'y', 'z', 'w’};
+float Z[] = {1.6, 1.72, 1.83, 1.67, 1.8};
