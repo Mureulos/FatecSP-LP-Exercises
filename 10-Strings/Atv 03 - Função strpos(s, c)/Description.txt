@@ -1,0 +1,1 @@
+Codifique a função strpos(s, c) que devolve a posição da primeira ocorrência do caracter c na string s; ou -1, caso c não exista em s.

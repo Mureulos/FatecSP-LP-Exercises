@@ -1,0 +1,2 @@
+Escreva um programa que leia uma cadeia de caracteres e imprima a mesma de trás pra frente. 
+Sugestão: Utilize a função strlen() para saber o tamanho da frase.
