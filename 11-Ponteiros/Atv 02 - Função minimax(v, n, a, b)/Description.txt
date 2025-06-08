@@ -1,0 +1,3 @@
+Escreva a função minimax (v, n, a, b), que recebe um vetor v, com n valores reais e devolvem em a e b os valores mínimo e máximo entre aqueles armazenados em v. 
+
+Observação: Parâmetros do tipo vetor sempre são passados por referência e não por valor.

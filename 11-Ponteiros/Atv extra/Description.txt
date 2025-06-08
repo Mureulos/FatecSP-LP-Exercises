@@ -1,0 +1,5 @@
+Usando aritmética de ponteiros, codifique a função
+carrega(v,n), que preenche um vetor v com n valores lidos do teclado.
+
+Ex: scanf("%d", (v+i)); ou seria scanf(“%d”, *(v+i)); 
+    Ou scanf("%d", &(v+i)); ou scanf("%d", &*(v+i)); 

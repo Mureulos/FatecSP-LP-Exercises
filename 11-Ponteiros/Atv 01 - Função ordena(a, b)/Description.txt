@@ -1,0 +1,1 @@
+Escreva uma função ordena (a, b) que receba dois inteiros a e b e devolva o menor deles em a e o maior em b.
