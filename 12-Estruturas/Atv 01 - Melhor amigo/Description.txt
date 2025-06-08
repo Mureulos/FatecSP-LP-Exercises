@@ -1,0 +1,8 @@
+Defina a estrutura PESSOA com:
+- Nome
+- Telefone
+- Data de nascimento
+
+Antes, não esqueça de definir a estrutura DATA.
+Implemente um programa que solicite os dados do seu melhor amigo; armazene numa variável do tipo PESSOA.
+Em seguida imprima os dados desta variável na tela.

@@ -1,0 +1,10 @@
+Elabore um programa que leia, armazene e exiba os dados de uma turma de 5 alunos.
+
+Cada Aluno deve informar:
+- Nome (char[21])
+- Matricula (char[9])
+- Média final (float)
+
+Para isso, codifique e utilize as seguintes rotinas:
+- LeAlunos(t[], n): solicita ao usuário que digite os dados de n alunos e armazena em t.
+- Imprime(t[], n): exibe na tela os dados armazenados em t.
