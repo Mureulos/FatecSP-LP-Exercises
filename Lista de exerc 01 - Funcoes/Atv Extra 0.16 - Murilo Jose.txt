@@ -1,0 +1,7 @@
+Um laço do-while é útil quando seu corpo:
+a. Nunca é executado;
+b. Pode nunca ser executado;
+c. Deve ser executado pelo menos uma vez;
+d. Termina após a primeira execução.
+
+Resposta: c. Deve ser executado pelo menos uma vez;

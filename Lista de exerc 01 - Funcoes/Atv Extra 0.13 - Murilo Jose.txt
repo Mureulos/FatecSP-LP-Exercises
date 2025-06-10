@@ -1,0 +1,7 @@
+Um comando break:
+a. Termina um programa;
+b. É obrigatório em uma construção switch;
+c. Causa saída imediata de um if;
+d. Causa saída imediata de um laço (for; while; do-while).
+
+Resposta: d. Causa saída imediata de um laço (for; while; do-while).

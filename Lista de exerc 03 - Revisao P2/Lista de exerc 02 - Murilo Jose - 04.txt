@@ -1,0 +1,3 @@
+4. Vetores e estruturas são usados para agrupar dados, mas funcionam de formas diferentes. 
+Vetores guardam vários valores do mesmo tipo, como uma lista de números inteiros. 
+Já as estruturas podem guardar dados de tipos diferentes juntos, como um número, um texto e um caractere na mesma variável.

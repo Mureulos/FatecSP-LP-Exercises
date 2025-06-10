@@ -1,0 +1,7 @@
+Numa construção if sem else, o que acontece se a condição de teste for falsa?
+a. O controle procura pelo ultimo else do programa; 
+b. Nada;
+c. O controle passa para a instrução seguinte ao if; 
+d. O corpo do comando if é executado.
+
+Resposta: O controle passa para a instrução seguinte ao if

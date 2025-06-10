@@ -1,0 +1,6 @@
+Verdadeiro ou Falso.
+a. Toda construção switch pode ser transformado em if encadeado.
+b. Todo if encadeado pode ser transformado em uma construção switch.
+
+Resposta: a. Verdadeiro
+	  b. Falso

@@ -1,0 +1,7 @@
+A vantagem de uma construção switch sobre um if-else é: 
+a. Uso do default no switch;
+b. O switch fornece clareza e facilidade de leitura;
+c. Os casos de um switch permitem diversas escolhas;
+d. Várias instruções podem ser executadas em cada caso de um switch.
+
+Resposta: b. O switch fornece clareza e facilidade de leitura;

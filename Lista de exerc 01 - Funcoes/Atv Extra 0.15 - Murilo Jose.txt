@@ -1,0 +1,3 @@
+As três expressões que compõem a expressão do laço for são separadas por ___
+
+Resposta: ";"

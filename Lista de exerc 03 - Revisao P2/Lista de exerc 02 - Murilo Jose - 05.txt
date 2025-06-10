@@ -1,0 +1,2 @@
+Sim é possível usar estruturas anônimas
+Porém, usar nomes nas estruturas é melhor, pois facilita a reutilização e deixa o código mais organizado. 

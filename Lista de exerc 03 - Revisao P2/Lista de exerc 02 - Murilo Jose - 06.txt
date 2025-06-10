@@ -1,0 +1,16 @@
+Estrutura rotulada: é aquela que tem um nome (rótulo) após a palavra-chave struct, mas não é usada com typedef, então só pode ser usada com o prefixo struct.
+Exemplo:
+  struct Pessoa {
+      char nome[50];
+      int idade;
+  };
+  struct Pessoa p1;
+
+Estrutura nomeada: geralmente refere-se a uma estrutura que foi nomeada usando typedef, ou seja, você pode declarar variáveis diretamente, sem usar struct.
+Exemplo:
+  typedef struct {
+      char nome[50];
+      int idade;
+  } Pessoa;
+
+  Pessoa p1;
